@@ -1,0 +1,31 @@
+{
+  "name": "full-stuck",
+  "version": "1.0.0",
+  "description": "",
+
+  "scripts": {
+    "start":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.6",
+    "mysql": "^2.18.1",
+    "node": "^16.9.1",
+    "nodemon": "^2.0.13",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.1.1"
+
+}
+}
